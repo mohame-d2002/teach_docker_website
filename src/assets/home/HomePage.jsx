@@ -14,10 +14,12 @@ export function HomePage() {
                         <a href="#" className="text-gray-700 hover:text-blue-600 font-medium">Home</a>
                         <a href="#" className="text-gray-700 hover:text-blue-600 font-medium">About</a>
                         <a href="#" className="text-gray-700 hover:text-blue-600 font-medium">Services</a>
+                        
                         <a href="#" className="text-gray-700 hover:text-blue-600 font-medium">Contact</a>
                     </div>
                     <button className="bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-700 transition duration-300">
                         Get Started
+                        
                     </button>
                     <button className="bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-700 transition duration-300">
                        <NavLink to="/AudioGirl">Audio of girls</NavLink>
